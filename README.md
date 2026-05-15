@@ -18,10 +18,10 @@ Geometry Nodes Terrain Tutorial
 https://www.youtube.com/watch?v=d4k9-KF6GkI
 
 ### Beginner Geometry Nodes Introduction
-https://www.youtube.com/watch?v=kKDLYJg_4dQ
+https://youtu.be/Q53LOCFVp70?si=eXJFsB0wux5wpP_n
 
-### Inspiration / Advanced Demo
-https://www.youtube.com/watch?v=FVjsmC-UThg
+### Perlin Noise Explanation
+https://youtu.be/MMj3WU4gORI?si=_r8sku2YObuWdfpt
 
 ---
 ## Mini Project
